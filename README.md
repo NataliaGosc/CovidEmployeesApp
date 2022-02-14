@@ -1,7 +1,0 @@
-# CovidEmployeesApp![1](https://user-images.githubusercontent.com/83544756/153935435-c841a144-9ee1-4c2e-8d56-5e0986d80f49.png)
-![5](https://user-images.githubusercontent.com/83544756/153935487-e5209deb-9db7-4ca5-a976-aca5813d08b6.png)
-![3](https://user-images.githubusercontent.com/83544756/153935539-9a397189-4bfe-4adc-8bd3-6bf8f0c6000e.png)
-![4](https://user-images.githubusercontent.com/83544756/153935553-370375ad-4017-49c3-bc67-c1f82e99f532.png)
-![6](https://user-images.githubusercontent.com/83544756/153935591-ae101ef2-559f-4b2f-b986-7106877907c4.png)
-![7](https://user-images.githubusercontent.com/83544756/153935596-0e00b341-b16a-4e5b-b7fd-ca420ff44f07.png)
-![8](https://user-images.githubusercontent.com/83544756/153935601-c3e00c83-9d6b-4c0f-a035-19cdbc49a407.png)
