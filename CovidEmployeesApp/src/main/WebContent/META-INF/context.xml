@@ -1,0 +1,9 @@
+<Context>
+
+  <Resource name="jdbc/CovidEmployees" 
+  			auth="Container" type="javax.sql.DataSource"
+               maxIdle="5" username="sa" password="kwiatek01" 
+               driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+               url="jdbc:sqlserver://LAPTOP-8H8B5ROP\SQLEXPRESS;databaseName=CovidEmployeesDB" maxWaitMillis="10000" maxTotal="20"/>
+
+</Context>
