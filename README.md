@@ -1,5 +1,5 @@
 # CovidEmployeesAPP
-#### Serwis internetowy, w którym rejestrowane jest wynik testu na COVID-19.
+#### Serwis internetowy, w którym rejestrowane jest wynik testu na COVID-19 naszego pracownika.
 
 ## Spis treści 
 * [Ilustracje](#ilustracje)
